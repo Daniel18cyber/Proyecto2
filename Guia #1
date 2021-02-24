@@ -1,0 +1,17 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Biografía de Richard Stallman</title>
+</head>
+<body>
+	<h1>Biografía de Richard Stallman</h1>
+	<p>
+		Richard Stallman (16 de marzo de 1953) programado y figura destacada del movimiento por el software libre en el mundo. Nació en Manhattan, Nueva York, Estados Unidos. Es conocido por establecer el movimiento del software libre, una alternativa al desarrollo y distribución del software privativo. Fue el responsable de crear la definición del método de Copyleft, busca licenciar software de uso libre para la comunidad. Estudió física en la Universidad de Harvard. Luego se desempeñó como hacker del laboratorio de inteligencia artificial (IA) del MIT.
+
+		En la década del 80, Stallman empezó a disolverse bajo la presión de la comercialización en la industria del software. Las presiones no tardaron en llegar, varios hackers crearon la compañía Symbolics, la cual intentaba reemplazar el software libre del Laboratorio IA con su propio software privativo. Entre 1983 a 1985, Stallman hizo todo lo posible para impedir las acciones de los programadores de Symbolics.
+
+	</p>
+</body>
+</html>
